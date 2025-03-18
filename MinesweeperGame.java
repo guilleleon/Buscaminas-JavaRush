@@ -1,4 +1,4 @@
-package com.javarush.games.minesweeper;
+package com.github.guilleleon.javarush.buscaminas;
 
 import com.javarush.engine.cell.*;
 
